@@ -1,6 +1,6 @@
 {
   "name": "phantomjs-bluebird",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A module wrapping a node phantomjs bridge with a promise based abstraction.",
   "main": "dist/index.js",
   "scripts": {
